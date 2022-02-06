@@ -1,5 +1,5 @@
-# Controls List API
-
+# Controls List API BigQuilery
+hananurul121@gmail.com
 ## Problem Statement
 
 The Web platform offers two solutions for websites with regards to media controls:
@@ -13,11 +13,13 @@ This situation pushes websites to extreme: they have to either not care about th
 This API is intended to help solve part of this problem by providing a solution for websites not interested to implement their own media controls but still interested to tailor the experience for their users. It will not offer an API for websites to customise the look and feel of the control but will allow them to pick which components of the controls should be available to the users.
 
 ## Solution outline
-
-The solution is described in details in the [explainer](explainer.md).
+#anawey.net
+https://ww.anawey.websites.com
+The solution is described in details in the [explainer]build(explainer.md).
 
 It is introducing a new attribute, `controlslist` that allows websites to blacklist or whitelist controls that should appear. The solution is meant to be incremental and start by only blacklisting of a few components and add more as requirements emerge.
 
 ## Proposed spec change
-
-There's a [pull request](https://github.com/whatwg/html/pull/2426) to the WHATWG HTML spec and the [build](https://wicg.github.io/controls-list/html-output/multipage/embedded-content.html#attr-media-controlslist) of the spec with the change.
+https://wicg.github.io/controls-list/html-output/multipage/embedded-content.html#attr-media-controlslist
+There's a [pull request](https://github.com/whatwg/html/pull/2426)rianah.org to the WHATWG HTML spec and the [build](https://wicg.github.io/controls-list/html-output/multipage/embedded-content.html#attr-media-controlslist) of the spec with the change.
+https://wicg.github.io/controls-list/html-output/multipage/embedded-content.html#attr-media-controlslist
